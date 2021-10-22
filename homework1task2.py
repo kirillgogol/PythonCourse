@@ -4,4 +4,4 @@ s = s.replace("Uncle Styopa", my_name)
 s = s.replace("Uncle", my_name)
 s = s.replace("Styopa", my_name)
 print(s)
-# on git 
+# on github
